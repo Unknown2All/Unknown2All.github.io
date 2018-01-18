@@ -1,0 +1,12 @@
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    color: #428BCA;
+}
+
+.coinmarketcap-currency-widget {
+    width: 23%;
+    margin: 10px 1%;
+    float: none;
+}
